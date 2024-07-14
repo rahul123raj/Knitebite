@@ -60,4 +60,3 @@ ictures/Screenshots/Screenshot%20from%202024-07-14%2014-45-47.png
 
 file:///home/rahul/Pictures/Screenshots/Screenshot%20from%202024-07-14%2014-46-25.png
 
-![Screenshot from 2024-07-14 14-46-25](https://github.com/user-attachments/assets/4e6d50e7-14c6-45f3-91fb-ee3028c213b0)![Screenshot from 2024-07-14 14-46-04](https://github.com/user-attachments/assets/f685046f-680c-41c8-9ed9-2ac91a1e9c89)![Screenshot from 2024-07-14 14-45-47](https://github.com/user-attachments/assets/eced4344-c582-4985-ab92-a059cda43107)
