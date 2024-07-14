@@ -42,6 +42,7 @@ Simply open the index.html file in your preferred web browser to view the KniteB
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have any suggestions or improvements.
 
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
@@ -51,4 +52,12 @@ For any inquiries or feedback, please contact:
 Name: Rahul Kumar
 Email: rahul123rajkr@gmail.com
 
+## Screenshots of the webpage.
 
+![Screenshot from 2024-07-14 14-45-38](https://github.com/user-attachments/assets/91e7e9c3-4f0b-42f9-bda0-8b8c5a3db0f2)
+file:///home/rahul/P![Screenshot from 2024-07-14 14-46-04](https://github.com/user-attachments/assets/907dbac7-0ee7-4242-bab5-764861cd082b)
+ictures/Screenshots/Screenshot%20from%202024-07-14%2014-45-47.png
+
+file:///home/rahul/Pictures/Screenshots/Screenshot%20from%202024-07-14%2014-46-25.png
+
+![Screenshot from 2024-07-14 14-46-25](https://github.com/user-attachments/assets/4e6d50e7-14c6-45f3-91fb-ee3028c213b0)![Screenshot from 2024-07-14 14-46-04](https://github.com/user-attachments/assets/f685046f-680c-41c8-9ed9-2ac91a1e9c89)![Screenshot from 2024-07-14 14-45-47](https://github.com/user-attachments/assets/eced4344-c582-4985-ab92-a059cda43107)
